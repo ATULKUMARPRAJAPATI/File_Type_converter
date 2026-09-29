@@ -1,0 +1,6 @@
+docx2pdf>=0.1.8
+pdf2docx>=0.5.13
+python-docx>=1.2.0
+customtkinter>=6.0.0
+reportlab>=5.0.1
+pywin32>=312; platform_system == "Windows"
